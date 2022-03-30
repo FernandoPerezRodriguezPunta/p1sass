@@ -1,0 +1,27 @@
+{
+  "name": "sassp1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass:watch": "sass --watch main.scss  main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandoPerezRodriguezPunta/p1sass.git"
+   
+  },
+  "author": "Fernando Jesús pérez Rodríguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FernandoPerezRodriguezPunta/p1sass/issues"
+  },
+  "homepage": "https://github.com/FernandoPerezRodriguezPunta/p1sass#readme",
+  "devDependencies": {
+    "sass": "^1.49.9"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.1"
+  }
+}

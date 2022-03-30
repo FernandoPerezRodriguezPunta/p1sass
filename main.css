@@ -3,47 +3,42 @@ body {
   background-color: #89b8ce;
 }
 
+header {
+  border: 1px solid blue;
+}
+
 main ul {
   list-style-type: none;
 }
-
 main ul li:nth-child(1) {
   color: #009a00;
 }
-
 main ul li:nth-child(2) {
   color: #00b300;
 }
-
 main ul li:nth-child(3) {
   color: #00cd00;
 }
-
 main ul li:nth-child(4) {
   color: #00e600;
 }
-
 main ul li:nth-child(5) {
   color: #01ff01;
 }
-
 main ul li:nth-child(6) {
   color: #1aff1a;
 }
-
 main ul li:nth-child(7) {
   color: #34ff34;
 }
-
 main ul li:nth-child(8) {
   color: #4dff4d;
 }
-
 main ul li:nth-child(9) {
   color: #67ff67;
 }
-
 main ul li:nth-child(10) {
   color: #80ff80;
 }
+
 /*# sourceMappingURL=main.css.map */
